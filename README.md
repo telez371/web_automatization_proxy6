@@ -50,8 +50,12 @@
 
 
 <p align="left">
-     <a href="https://imgbb.com/"><img src="https://i.ibb.co/rkybMjt/images-1.jpg" alt="images-1" border="0"></a>
+     <a href="https://imgbb.com/"><img src="https://i.ibb.co/rkybMjt/images-1.jpg" alt="images-1" border="0"></a>  
 </p>
+<pre>
+<span class="key">"Творчество в работе - это средство самовыражения и проявления своей уникальности."</span>
+
+</pre>
 
 ## Result
 1 При вводе капчи было реализованно диалоговое окнокоторое дает возможность
